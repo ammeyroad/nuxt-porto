@@ -19,7 +19,7 @@ export default {
     <div class="w-full sm:w-1/4 mb-7 sm:mb-0">
       <img src="~/static/profile.jpeg" class="rounded-lg w-96" alt="" />
     </div>
-
+<p>jhjgk</p>
     <!-- About details -->
     <div class="w-full sm:w-3/4 text-left">
       <p
@@ -33,7 +33,7 @@ export default {
           text-lg
         "
       >
-        {{ bio.bio }}
+        {{ bio.bio }}klhjklj
       </p>
     </div>
   </div>
